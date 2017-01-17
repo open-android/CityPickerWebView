@@ -4,6 +4,12 @@
 ![](http://upload-images.jianshu.io/upload_images/4037105-90cad9b81ae15e5f.gif?imageMogr2/auto-orient/strip)
 
 
+* 更多干货请下载app
+
+
+![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 开源地址：[https://github.com/open-android/CityPickerWebView](https://github.com/open-android/CityPickerWebView)
 
 
